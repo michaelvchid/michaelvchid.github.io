@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/PIC16B/PIC16B.github.io/master/images/
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: michaelvchid@g.ucla.edu
   facebook:
   flickr:
-  github: PIC16B/pic16b.github.io # replace with your repo
+  github: michaelvchid/michaelvchid.github.io
   instagram:
   linkedin:
   pinterest:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://michaelvchid.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
