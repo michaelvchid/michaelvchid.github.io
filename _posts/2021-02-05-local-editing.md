@@ -51,5 +51,4 @@ If you are using VS Code to edit your files, you can open a terminal inside the 
 
 Many other text editors have similar functionality, although I can't directly vouch for them since I don't use them. 
 
-
-
+Blog post courtesy of professor Phil Chodrow of UCLA. 
