@@ -208,4 +208,4 @@ immediately beneath the code block.
 
 Once you've made all these additions to your test post, publish the result. To do so, make sure you have committed all your changes in GitHub Desktop, including any files you may have added. Once you've done so, push! In a few minutes, you should see your new post on your website. 
 
-
+Blog post courtesy of professor Phil Chodrow of UCLA. 
