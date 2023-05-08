@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Project Reflection
+title: ODE Solver - A Flask Website and Project Reflection
 ---
 
 After working on a project all quarter long, it's time to reflect on the progress that's been made and what has been learned. 
